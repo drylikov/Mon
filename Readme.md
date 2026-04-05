@@ -145,4 +145,3 @@ mon -d "node $app/image-broker" -p $pids/image-broker.pid
   - [node-mongroup](https://github.com/drylikov/node_mongroup) - node implementation of mongroup(1)
   
   
-  
