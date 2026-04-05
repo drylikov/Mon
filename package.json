@@ -1,0 +1,10 @@
+
+{
+  "name": "mon",
+  "version": "1.2.2",
+  "repo": "drylikov/mon",
+  "description": "Simple process monitoring",
+  "keywords": ["process", "monitoring", "monitor", "availability"],
+  "license": "MIT",
+  "install": "make install"
+}
