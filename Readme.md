@@ -141,5 +141,4 @@ mon -d "node $app/image-broker" -p $pids/image-broker.pid
 
   Tools built with `mon(1)`:
 
-  - [mongroup(1)](https://github.com/jgallen23/mongroup) - monitor a group of processes (shell script)
-  - [node-mongroup](https://github.com/drylikov/node_mongroup) - node implementation of mongroup(1)
+  - [mongroup(1)](https://github.com/drylikov/Mongroup) - monitor a group of processes (shell script)
